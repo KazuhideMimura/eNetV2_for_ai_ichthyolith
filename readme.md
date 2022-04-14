@@ -8,7 +8,16 @@ Mimura, K., Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J., Kato, Y. Automated
 All the codes are for Google Colaboratory
 
 ## training and validation
-1. collect images of each class 
+1. collect images of each class. Paths shold be `~/(dataset name)/(class)/~.jpg` 
+2. upload to google drive by zipfile
+3. run all the cells at `notebooks/eNetV2_train_by_zippedImages.ipynb`
+
+## practical test
+1. do test in [ai_ichthyolith](https://github.com/KazuhideMimura/ai_ichthyolith) on the google colaboratory
+2. run all the cells at `notebooks/total_performance_check.ipynb`
+
+## use the trained model as second classifier
+1. run all the cells at `notebooks/predict_from_excel.ipynb`
 
 # References
 He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask r-cnn. *In* Proceedings of the IEEE international conference on computer vision (pp. 2961-2969). [[GitHub](https://github.com/matterport/Mask_RCNN)] [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)]
@@ -23,6 +32,6 @@ Training, validation datasets are temporally available at Author's [Google Drive
 2022/4/14: released
 
 ## Todo
-1. confirmation of operation
+1. confirmation of operation --> share codes by colab
 2. describe # How to use
 3. translate Japanese comments to English. 
