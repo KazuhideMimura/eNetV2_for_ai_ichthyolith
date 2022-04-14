@@ -1,3 +1,7 @@
+<span style="font-size: 150%"><font color="red">
+Note: Operation has not been tested yet
+</span></font>
+
 ## Citation
 Mimura, K., Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J., Kato, Y. Automated detection of microfossil fish teeth from slide images using combined deep-learning models. *submitted to Computers & Geosciences*
 
@@ -32,6 +36,6 @@ Training, validation datasets are temporally available at Author's [Google Drive
 2022/4/14: released
 
 ## Todo
-1. confirmation of operation --> share codes by colab
-2. describe # How to use
-3. translate Japanese comments to English. 
+1. confirmation of operation --> share codes on Google Drive
+2. translate Japanese comments to English. 
+3. Add some images?
