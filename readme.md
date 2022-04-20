@@ -31,9 +31,9 @@ Training, validation datasets are temporally available at [Mendeley data](https:
 
 # notes
 ## log
+2022/4/20: translation of Japanese comments to English
+2022/4/20: submitted paper to *Computers and Geosciences*
 2022/4/14: released
 
 ## Todo
-1. confirmation of operation --> share codes on Google Drive
-2. translate Japanese comments to English. 
-3. Add some images?
+1. Add some images?
