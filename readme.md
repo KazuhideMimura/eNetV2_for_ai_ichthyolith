@@ -32,7 +32,9 @@ Training, validation datasets are temporally available at [Mendeley data](https:
 # notes
 ## log
 2022/4/20: translation of Japanese comments to English
+
 2022/4/20: submitted paper to *Computers and Geosciences*
+
 2022/4/14: released
 
 ## Todo
