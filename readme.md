@@ -27,7 +27,7 @@ He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask r-cnn. *In* Proce
 Tan, M., & Le, Q. (2021, July). Efficientnetv2: Smaller models and faster training. *In* International Conference on Machine Learning (pp. 10096-10106). PMLR. [[GitHub](https://github.com/google/automl/tree/master/efficientnetv2)] [[paper](http://proceedings.mlr.press/v139/tan21a.html)]
 
 ## Dataset availability
-Training, validation datasets are temporally available at Author's [Google Drive](https://drive.google.com/drive/folders/1QC7deWgQRFkoDdOLao3SatYC6TO4moeT?usp=sharing).
+Training, validation datasets are temporally available at [Mendeley data](https://data.mendeley.com/datasets/zdpz6m9gzf/1).
 
 # notes
 ## log
