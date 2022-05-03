@@ -1,5 +1,5 @@
 ## Citation
-Mimura, K., Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J., Kato, Y. Automated detection of microfossil fish teeth from slide images using combined deep-learning models. *submitted to Computers & Geosciences*
+Mimura, K., Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J., Kato, Y. Automated detection of microfossil fish teeth from slide images using combined deep-learning models. *submitted to Applied Computing & Geosciences*
 
 The preprint is available at [EarthArXiv](https://doi.org/10.31223/X5BD11)
 
@@ -31,6 +31,8 @@ Training, validation datasets are temporally available at [Mendeley data](https:
 
 # notes
 ## log
+2022/5/3: Updated citation
+
 2022/4/21: preprint was published on [EarthArXiv](https://doi.org/10.31223/X5BD11)
 
 2022/4/20: translation of Japanese comments to English
