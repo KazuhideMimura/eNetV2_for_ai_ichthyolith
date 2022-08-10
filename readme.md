@@ -2,9 +2,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/eNetV2_for_ai_ichthyolith&left_color=gray&right_color=blue)
 
 ## Citation
-Mimura, K., Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J., Kato, Y. Automated detection of microfossil fish teeth from slide images using combined deep-learning models. *submitted to Applied Computing & Geosciences*
-
-The preprint is available at [EarthArXiv](https://doi.org/10.31223/X5BD11)
+Mimura, K., Minabe, S., Nakamura, K., Yasukawa, K., Ohta, J., Kato, Y. Automated detection of microfossil fish teeth from slide images using combined deep-learning models. *Applied Computing & Geosciences* (accepted). https://doi.org/10.1016/j.acags.2022.100092
 
 # About
 **eNetV2_for_ai_ichthyolith** reclassifies regions detected by the object detection model Mask R-CNN using the image classification model EfficientNet-V2. The codes use outputs of [ai_ichthyolith](https://github.com/KazuhideMimura/ai_ichthyolith), an application of Mask R-CNN for detection of microfossils, to minimalize manual work.
